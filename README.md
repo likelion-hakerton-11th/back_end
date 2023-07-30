@@ -12,3 +12,4 @@
    1. pip install -r requirement.txt
    2. 만약 본인이 추가한 모듈이 있다면, 공지할것
       1. pip freeze > requirement.txt 명령어를 사용해서 requirement.txt 갱신할것
+6. 보안이 필요한 키값의 경우에는 backend/screat/screat.py에 저장되어 있고, 해당 파일 필요시 팀장에게 말할것
