@@ -10,3 +10,5 @@
 4. 가상환경의 이름은 'venv'로 통일 할것
 5. 설치해야하는 패키지들은 requirement.txt 참고
    1. pip install -r requirement.txt
+   2. 만약 본인이 추가한 모듈이 있다면, 공지할것
+      1. pip freeze > requirement.txt 명령어를 사용해서 requirement.txt 갱신할것
