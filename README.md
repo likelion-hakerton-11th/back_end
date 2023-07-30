@@ -7,3 +7,6 @@
     1. 기능을 추가하기 위한 브랜치 : feature/name(본인 영문이름)/기능명
     2. 기능을 수정(오류 등의 이유로)하는 경우 : hotfix/name(본인 영문이름)/기능명
 3. push를 해야하는 경우에는 pull req만 걸어두고, 팀장에게 카톡등으로 연락할것
+4. 가상환경의 이름은 'venv'로 통일 할것
+5. 설치해야하는 패키지들은 requirement.txt 참고
+   1. pip install -r requirement.txt
